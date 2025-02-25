@@ -2,6 +2,7 @@
 
 This is the microservice A that I have implemented for my partner.  
 This is an artifical intelligence powered recipe generator that relies on the user writing a list of parameters (cusineType, dishType, and tasteDescriptor) to the recipe.txt file in the following format:
+
 ![image](https://github.com/user-attachments/assets/c83e743b-bcda-4b2e-85de-599005d496d9)
 
 The 'run' should be in all lowercase and is required as the first paramater so the microservice knows to start the program.
