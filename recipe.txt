@@ -17,9 +17,7 @@ This recipe creates a hearty and flavorful Bigos, a classic Polish stew.  It's a
     * 1 large onion, chopped
     * 2 cloves garlic, minced
     * 1 medium green bell pepper, chopped
-    * 1 medium red bell pepper, chopped
-    * 1 large carrot, chopped
-    * 1 cup sauerkraut, drained and rinsed
+    * 1 medium red bell pepper, chopped    * 1 cup sauerkraut, drained and rinsed
     * 1 cup chopped mushrooms (any type)
     * 1/2 cup chopped tomato paste
     * 1 (14.5 ounce) can diced tomatoes, undrained
@@ -42,7 +40,7 @@ This recipe creates a hearty and flavorful Bigos, a classic Polish stew.  It's a
 **Instructions:**
 
 1. **Sear the Meat:**  In the Dutch oven, sear the pork cubes and kielbasa (and bacon, if using) over medium-high heat until browned on all sides. Remove the meat from the pot and set aside.
-2. **Sauté Aromatics:** Add the onion to the pot and sauté until softened, about 5 minutes. Add the garlic and bell peppers, and cook for another 3-4 minutes, stirring occasionally, until slightly tender. Add the carrots and mushrooms. Sauté for 5 more minutes.
+2. **Sautï¿½ Aromatics:** Add the onion to the pot and sautï¿½ until softened, about 5 minutes. Add the garlic and bell peppers, and cook for another 3-4 minutes, stirring occasionally, until slightly tender. Add the carrots and mushrooms. Sautï¿½ for 5 more minutes.
 3. **Combine:** Return the meat to the pot.  Stir in the sauerkraut, tomato paste, diced tomatoes, red wine (if using), beef broth, tomato paste, paprika, caraway seeds, sugar, thyme, and oregano. Season generously with salt and pepper.
 4. **Simmer:** Bring the mixture to a boil, then reduce heat to low, cover, and simmer for at least 2 hours, stirring occasionally, and allowing the flavors to meld. For a richer stew, increase cooking time to 3 hours.
 
