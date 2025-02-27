@@ -10,7 +10,7 @@ def getRecipe():
     return recipe
 
 def main():
-    recipeParameters = ['run', 'Polish', 'Main Course', 'Savory']
+    recipeParameters = ['run', 'Mexican', 'Dessert', 'Very-sweet']
     writeInitial(recipeParameters)
     time.sleep(8)
     recipe = getRecipe()
